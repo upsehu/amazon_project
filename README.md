@@ -153,9 +153,9 @@ ALTER COLUMN shipping_provider TYPE VARCHAR(20);
 ### Task: Data Cleaning
 #### I cleaned the dataset by:
 ---
---**Removing duplicates:** Duplicates in the customer and order tables were identified and removed.
+- **Removing duplicates:** Duplicates in the customer and order tables were identified and removed.
 
---**Handling missing values:** Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
+- **Handling missing values:** Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
 
 # Handling Null Values
 **Null values were handled based on their context:**
