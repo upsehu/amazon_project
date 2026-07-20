@@ -1,5 +1,5 @@
-# Amazon INDIA Sales Analysis project
-Difficulty Level: Advanced
+### Amazon INDIA Sales Analysis project ###
+# Difficulty Level: Advanced
 # Project Overview
 I have worked on analyzing a dataset of over 20,000 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
 
@@ -842,3 +842,5 @@ This advanced SQL project successfully demonstrates my ability to solve real-wor
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
 # Entity relationdhip Diagram(ERD)
+<img width="1644" height="771" alt="image" src="https://github.com/user-attachments/assets/5938d596-4f71-4eb1-9ffb-6b4fc09712e9" />
+
