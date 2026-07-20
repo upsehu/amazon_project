@@ -10,7 +10,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 ### Database setup & design
-**schema Structure**
+#### schema Structure
 
 ---
 ```SQL
@@ -148,11 +148,11 @@ ALTER TABLE shipping
 ALTER COLUMN shipping_provider TYPE VARCHAR(20);
 ```
 
-
+---
 
 ### Task: Data Cleaning
 #### I cleaned the dataset by:
-
+---
 **Removing duplicates:** Duplicates in the customer and order tables were identified and removed.
 
 **Handling missing values:** Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
@@ -166,8 +166,11 @@ ALTER COLUMN shipping_provider TYPE VARCHAR(20);
 
 **Shipping information:** Null return dates were left as is, as not all shipments are returned.
 
+---
+
 ### Identifying & Solving Business Problems
 #### Solutions Implemented:
+---
 
 **Restock Prediction:** Forecasting inventory needs to maintain optimal stock levels.
 
@@ -176,6 +179,8 @@ ALTER COLUMN shipping_provider TYPE VARCHAR(20);
 **Shipping Optimization:** Improving logistics and delivery efficiency.
 
 **Customer Segmentation:** Categorizing customers based on purchasing behavior for better targeting.
+
+---
 ### Solving Business Problems
 
 --------------------------------------------
@@ -791,11 +796,14 @@ END IF;
 END ;
 $$
 ```
+---
 **Testing Store Procedure** call add_sales( 4007, 2, 5, 8002, 'B07JW9H4J1', 50 );
 
-
+---
 ### Learning Outcomes  
 **This project enabled me to:**  
+
+---
 
 Design and implement a normalized database schema.  
 
@@ -807,10 +815,18 @@ Conduct in-depth business analysis using SQL.
 
 Optimize query performance and handle large datasets efficiently.
 
+---
+
 ### Conclusion  
+
+---
 This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.  
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
+
+---
+
+
 
 # Entity relationdhip Diagram(ERD)
 <img width="1644" height="771" alt="image" src="https://github.com/user-attachments/assets/5938d596-4f71-4eb1-9ffb-6b4fc09712e9" />
