@@ -1,8 +1,9 @@
 
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/e9e77f2f-b2ee-471f-b0f7-fc3d89c9df59" width="40" valign="middle"/>
-  &nbsp; Amazon India Sales Analysis Project
-</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9e77f2f-b2ee-471f-b0f7-fc3d89c9df59" width="160" alt="Amazon logo"/>
+</p>
+
+<h1 align="center">Amazon India Sales Analysis Project</h1>
 
 ## Difficulty Level: Advanced
 ---
