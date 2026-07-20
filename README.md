@@ -1,4 +1,5 @@
-# Amazon INDIA Sales Analysis project 
+# Amazon INDIA Sales Analysis project <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07acbd50-4baa-428c-8d22-bdd3e158624e" />
+
 ## Difficulty Level: Advanced
 ---
 ### Project Overview
