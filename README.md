@@ -1,4 +1,8 @@
-# Amazon INDIA Sales Analysis project <img width="317" height="159" alt="image" src="https://github.com/user-attachments/assets/e9e77f2f-b2ee-471f-b0f7-fc3d89c9df59" />
+
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/e9e77f2f-b2ee-471f-b0f7-fc3d89c9df59" width="40" valign="middle"/>
+  &nbsp; Amazon India Sales Analysis Project
+</h1>
 
 ## Difficulty Level: Advanced
 ---
@@ -8,6 +12,10 @@ I have worked on analyzing a dataset of over 20,000 sales records from an Amazon
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
 An ERD diagram is included to visually represent the database schema and relationships between tables.
+
+---
+<img width="1412" height="1005" alt="ERD_amazon_sales_white" src="https://github.com/user-attachments/assets/7393ddf9-a6c4-400c-a1fd-5f0d83f660fa" />
+
 
 ---
 ### Database setup & design
