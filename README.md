@@ -160,11 +160,11 @@ ALTER COLUMN shipping_provider TYPE VARCHAR(20);
 # Handling Null Values
 **Null values were handled based on their context:**
 
---**Customer addresses:** Missing addresses were assigned default placeholder values.
+- **Customer addresses:** Missing addresses were assigned default placeholder values.
 
---**Payment statuses:** Orders with null payment statuses were categorized as "Pending."
+- **Payment statuses:** Orders with null payment statuses were categorized as "Pending."
 
---**Shipping information:** Null return dates were left as is, as not all shipments are returned.
+- **Shipping information:** Null return dates were left as is, as not all shipments are returned.
 
 ---
 
@@ -172,13 +172,13 @@ ALTER COLUMN shipping_provider TYPE VARCHAR(20);
 #### Solutions Implemented:
 ---
 
---**Restock Prediction:** Forecasting inventory needs to maintain optimal stock levels.
+- **Restock Prediction:** Forecasting inventory needs to maintain optimal stock levels.
 
---**Product Performance:** Analyzing sales data to determine how well specific products are performing.
+- **Product Performance:** Analyzing sales data to determine how well specific products are performing.
 
---**Shipping Optimization:** Improving logistics and delivery efficiency.
+- **Shipping Optimization:** Improving logistics and delivery efficiency.
 
---**Customer Segmentation:** Categorizing customers based on purchasing behavior for better targeting.
+- **Customer Segmentation:** Categorizing customers based on purchasing behavior for better targeting.
 
 ---
 ### Solving Business Problems
@@ -805,15 +805,15 @@ $$
 
 ---
 
---Design and implement a normalized database schema.  
+- Design and implement a normalized database schema.  
 
---Clean and preprocess real-world datasets for analysis.  
+- Clean and preprocess real-world datasets for analysis.  
 
---Use advanced SQL techniques, including window functions, subqueries, and joins.  
+- Use advanced SQL techniques, including window functions, subqueries, and joins.  
 
---Conduct in-depth business analysis using SQL.  
+- Conduct in-depth business analysis using SQL.  
 
---Optimize query performance and handle large datasets efficiently.
+- Optimize query performance and handle large datasets efficiently.
 
 ---
 
