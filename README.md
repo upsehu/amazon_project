@@ -15,8 +15,7 @@ The project also focuses on data cleaning, handling null values, and solving rea
 An ERD diagram is included to visually represent the database schema and relationships between tables.
 
 ---
-<img width="1412" height="1005" alt="ERD_amazon_sales_white" src="https://github.com/user-attachments/assets/7393ddf9-a6c4-400c-a1fd-5f0d83f660fa" />
-
+<img width="1672" height="941" alt="Databse_Schema" src="https://github.com/user-attachments/assets/7480eb64-4122-4f32-a266-85d453b824f6" />
 
 ---
 ### Database setup & design
