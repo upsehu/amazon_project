@@ -837,6 +837,6 @@ By completing this project, I have gained a deeper understanding of how SQL can 
 
 
 
-# Entity relationdhip Diagram(ERD)
+# Entity relationship Diagram(ERD)
 <img width="1644" height="771" alt="image" src="https://github.com/user-attachments/assets/5938d596-4f71-4eb1-9ffb-6b4fc09712e9" />
 
